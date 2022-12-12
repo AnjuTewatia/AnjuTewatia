@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjutewatia" alt="anjutewatia" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://www.linkedin.com/in/anju-tewatia-0759b6246/">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
