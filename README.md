@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Anju Tewatia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToK9sSYI6MIWxQZd8zZ9oHQ3ftC2TcZ_5AFIxWOitAuHHE0fhzK8cFjphE9LzrdeN1mYU&usqp=CAU"  width="100%" ,heigth="100px" alt="anju" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjutewatia&label=Profile%20views&color=0e75b6&style=flat" alt="anjutewatia" /> </p>
 
