@@ -34,9 +34,14 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjutewatia" alt="anjutewatia" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1GkfjNpv6I2RNkgssOCcm7uhGcCWlhwd-A&usqp=CAU">
-<a href="https://www.linkedin.com/in/anju-tewatia-0759b6246/"></a>
+<a href="https://www.linkedin.com/in/anju-tewatia-0759b6246/">
+  
+
+
+<img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1GkfjNpv6I2RNkgssOCcm7uhGcCWlhwd-A&usqp=CAU">
+
   </img>
+  </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
