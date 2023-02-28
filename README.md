@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 <p>❓ Ask me about anything related to Full Stack stack and related technologies</p>
 
 
+<p>Exploring various Technologies.</p>
+
+<p>⚡ In my free time, I solve problems on Data Structures and Algorithms and read tech articles.</p>
+
+
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzR5qfNIiqNViSn7TQX9NzGcvINvgly_fjEA&usqp=CAU" alt="anju" width="90%" heigth="200" /></p>
 
 
