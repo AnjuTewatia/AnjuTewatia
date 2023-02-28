@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Anju Tewatia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p>I’m currently learning Mern Stack</p>
+
+<p>❓ Ask me about anything related to MERN stack and related technologies</p>
+
+<p>⚡ Fun fact: I use tabs over space</p>
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzR5qfNIiqNViSn7TQX9NzGcvINvgly_fjEA&usqp=CAU" alt="anju" width="90%" heigth="200" /></p>
 
 
